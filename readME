@@ -1,0 +1,10 @@
+To update Repo...
+
+# 1. Take a snapshot of all modified/new files
+git add .
+
+# 2. Save the snapshot with a short note explaining what you changed
+git commit -m "Updated the home page design"
+
+# 3. Send the updates live to your private GitHub repo
+git push
